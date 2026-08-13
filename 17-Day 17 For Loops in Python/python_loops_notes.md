@@ -140,7 +140,7 @@ Python calculates `range(1, 10, 2)` step-by-step:
 
 ```text
 1, 3, 5, 7, 9
-
+```
 | Syntax | Example | Result Sequence | Notes |
 |---|---|---|---|
 | `range(start, stop)` | `range(1, 5)` | `1, 2, 3, 4` | Step defaults to `1` |
